@@ -30,7 +30,7 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
-		<!--SpingBoot集成junit测试的起步依赖-->
+		<!--SpingBoot集成junit测试的起步依赖2222 -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
@@ -44,7 +44,7 @@
 			<version>1.1.1</version>
 		</dependency>
 
-		<!-- MySQL连接驱动 -->
+		<!-- MySQL连接驱动11111 -->
 		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
